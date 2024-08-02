@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Define image and container names
 IMAGE_NAME="alpine-ssh"
 CONTAINER_NAME="alpine-ssh-container"
